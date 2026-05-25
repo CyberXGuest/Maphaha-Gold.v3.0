@@ -18,3 +18,8 @@ pip install --upgrade pip
 
 # 6. Give storage permission
 termux-setup-storage
+# Step 3: Make executable
+chmod +x maphaha_gold_v3.1.py
+
+# Step 4: Run
+python maphaha_gold_v3.1.py
